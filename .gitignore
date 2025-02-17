@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Stm32CubeIDE
+.metadata/
+.settings/
+*.ld
+*.launch
+build/
